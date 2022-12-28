@@ -9,5 +9,4 @@ public class PostApiChallengeApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(PostApiChallengeApplication.class, args);
 	}
-
 }
