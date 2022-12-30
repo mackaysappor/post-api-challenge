@@ -70,7 +70,7 @@ Enter the following command **WinSW.NET4.exe install**. You'll receive a respons
 Open the Services application by searching for it from the start menu and scroll down to the service name and start the service
 ![image](https://user-images.githubusercontent.com/96630738/210114968-3c7ffda5-9051-4c59-8c48-6158150f2570.png)
 
-> The url to access for the application locally is [http://localhost:8080/
+> The url to access for the application locally is [http://localhost:8080/]
 
 Then you can run tests on postman using the steps in the first tutorial
 
