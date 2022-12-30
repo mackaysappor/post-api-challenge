@@ -37,6 +37,7 @@ After successfully importing the collection into your postman follow the steps b
 
 #### Steps for running tests
 [1] Click on the **Check API** request and hit send to check if connection to the url is working. If successful you'll receive a welcome message
+![image](https://user-images.githubusercontent.com/96630738/210116307-3ca5ff76-93ee-4fd4-b0b4-d4ff81d51a95.png)
 
 [2] Click on the **Create Post** request and hit send about 5 times to create random data in the db. For each time you hit send you should receive a response of the id of the post that has been created.
 
